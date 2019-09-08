@@ -19,7 +19,7 @@ def long_planeteer_calls(array)
     if element.length > 4
       new_array << element
     end
-    
+  end
     new_array.!empty?
 end
 
