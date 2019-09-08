@@ -20,7 +20,7 @@ def long_planeteer_calls(array)
       new_array << element
     end
     
-    new_array.true?
+    new_array.!empty?
 end
 
 def find_the_cheese# code an argument here
