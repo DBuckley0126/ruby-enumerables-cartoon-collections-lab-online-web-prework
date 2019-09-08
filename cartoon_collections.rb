@@ -20,7 +20,7 @@ def long_planeteer_calls(array)
     end
   end
   
-  new_array.!empty?
+  new_array.any?
 end
 
 def find_the_cheese# code an argument here
